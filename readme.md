@@ -1,3 +1,6 @@
+## Ümit Eroğlu
+
+I am a student in the department of Geographic Information Systems at [Anadolu University](https://www.anadolu.edu.tr/). Check out my page at [GitHub](https://3roqlu.github.io/3roqlu-site/). 
 ### Hi there! 👋
 
 - 👋 Hi, I’m @3roqlu
