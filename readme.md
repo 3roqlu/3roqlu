@@ -1,11 +1,11 @@
 ## Ümit Eroğlu
 
-I am a student in the department of Geographic Information Systems at [Anadolu University](https://www.anadolu.edu.tr/). Check out my page at [GitHub](https://3roqlu.github.io/3roqlusite/). 
-### Hi there! 👋
+I am a student in the department of Geographic Information Systems at [Anadolu University](https://www.anadolu.edu.tr/).  
+Hi there! 👋
 
-- 👋 Hi, I’m Ümit Eroğlu
+- 👋 Hello, I’m Ümit Eroğlu
 
-- 👀 I’m interested in new technologies.
+- 👀 I’m highly interested in new technologies.
 
 - 🌱 I’m currently studying spatial gis. 
 
