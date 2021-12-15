@@ -1,7 +1,7 @@
 ## Ümit Eroğlu
 
-I am a student in the department of Geographic Information Systems at [Anadolu University](https://www.anadolu.edu.tr/).  
-Hi there! 👋
+Hi there! 👋 I am a student in the department of Geographic Information Systems at [Anadolu University](https://www.anadolu.edu.tr/).  
+
 
 - 👋 Hello, I’m Ümit Eroğlu
 
