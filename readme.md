@@ -3,7 +3,6 @@
 Hi there! 👋 I am a student in the department of Geographic Information Systems at [Anadolu University](https://www.anadolu.edu.tr/).  
 
 
-- 👋 I’m Ümit Eroğlu
 
 - 👀 I’m highly interested in new technologies.
 
